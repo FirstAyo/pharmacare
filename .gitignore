@@ -1,0 +1,46 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# Build output (Vite)
+dist/
+vite.svg
+.vite/
+
+# TypeScript
+*.tsbuildinfo
+
+# Testing / coverage
+coverage/
+.nyc_output/
+
+# Linting
+.eslintcache
+.stylelintcache
+
+# Env files (keep secrets out of git)
+.env
+.env.*
+!.env.example
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.swm
+.DS_Store
+Thumbs.db
+
+# Vercel local project link info (don’t leak org/project IDs)
+.vercel/
+
+# Logs
+logs/
+*.log
+*.log.*
