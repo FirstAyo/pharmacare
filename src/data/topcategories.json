@@ -7,7 +7,7 @@
 "category": "First Aid",
 "stock": 85,
 "desc": "Kills 99.9% of germs, 100ml bottle.",
-"image": "../../public/images/nosemask.png"
+"image": "/images/nosemask.png"
 },
 {
 "slug": "spf-30-sunscreen",
@@ -16,7 +16,7 @@
 "category": "Skincare",
 "stock": 35,
 "desc": "Broad-spectrum protection, water resistant.",
-"image": "../../public/images/nosemask.png"
+"image": "/images/nosemask.png"
 },
 {
 "slug": "cough-syrup-day",
@@ -25,7 +25,7 @@
 "category": "OTC",
 "stock": 25,
 "desc": "Non-drowsy relief for cough and congestion.",
-"image": "../../public/images/nosemask.png"
+"image": "/images/nosemask.png"
 },
 {
 "slug": "baby-wipes-sensitive",
@@ -34,7 +34,7 @@
 "category": "Baby Care",
 "stock": 60,
 "desc": "Hypoallergenic and fragrance-free, 80 count.",
-"image": "../../public/images/nosemask.png"
+"image": "/images/nosemask.png"
 },
 {
 "slug": "iron-supplement",
@@ -43,7 +43,7 @@
 "category": "Supplements",
 "stock": 18,
 "desc": "Essential mineral for red blood cells, 60 caps.",
-"image": "../../public/images/nosemask.png"
+"image": "/images/nosemask.png"
 },
 {
 "slug": "band-aids-assorted",
@@ -52,7 +52,7 @@
 "category": "First Aid",
 "stock": 100,
 "desc": "Flexible fabric bandages in various sizes.",
-"image": "../../public/images/nosemask.png"
+"image": "/images/nosemask.png"
 },
 {
 "slug": "lip-balm-spf15",
@@ -61,7 +61,7 @@
 "category": "Skincare",
 "stock": 75,
 "desc": "Moisturizing with sun protection.",
-"image": "../../public/images/nosemask.png"
+"image": "/images/nosemask.png"
 }
 ]
 }
