@@ -1,0 +1,2 @@
+import Section from '../components/ui/Section'
+export default function FAQ(){return(<Section title='FAQ'><div className='space-y-4'>{[['How fast is shipping?','Orders ship the same day when placed before 2pm.'],['Do you offer pharmacist chat?','Yes, 24/7 through your account.'],['Can I return items?','Unopened items may be returned within 30 days.']].map(([q,a])=> (<details key={q} className='card'><summary className='font-semibold'>{q}</summary><p className='mt-2 text-slate-600'>{a}</p></details>))}</div></Section>)}

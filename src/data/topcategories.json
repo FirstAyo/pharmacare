@@ -1,0 +1,67 @@
+{
+  "products": [
+{
+"slug": "hand-sanitizer",
+"title": "Hand Sanitizer 70%",
+"price": 4.5,
+"category": "First Aid",
+"stock": 85,
+"desc": "Kills 99.9% of germs, 100ml bottle.",
+"image": "../../public/images/nosemask.png"
+},
+{
+"slug": "spf-30-sunscreen",
+"title": "SPF 30 Sunscreen",
+"price": 11.25,
+"category": "Skincare",
+"stock": 35,
+"desc": "Broad-spectrum protection, water resistant.",
+"image": "../../public/images/nosemask.png"
+},
+{
+"slug": "cough-syrup-day",
+"title": "Daytime Cough Syrup",
+"price": 8.75,
+"category": "OTC",
+"stock": 25,
+"desc": "Non-drowsy relief for cough and congestion.",
+"image": "../../public/images/nosemask.png"
+},
+{
+"slug": "baby-wipes-sensitive",
+"title": "Sensitive Baby Wipes",
+"price": 5.0,
+"category": "Baby Care",
+"stock": 60,
+"desc": "Hypoallergenic and fragrance-free, 80 count.",
+"image": "../../public/images/nosemask.png"
+},
+{
+"slug": "iron-supplement",
+"title": "Iron Supplement",
+"price": 18.0,
+"category": "Supplements",
+"stock": 18,
+"desc": "Essential mineral for red blood cells, 60 caps.",
+"image": "../../public/images/nosemask.png"
+},
+{
+"slug": "band-aids-assorted",
+"title": "Assorted Band-Aids",
+"price": 3.25,
+"category": "First Aid",
+"stock": 100,
+"desc": "Flexible fabric bandages in various sizes.",
+"image": "../../public/images/nosemask.png"
+},
+{
+"slug": "lip-balm-spf15",
+"title": "Lip Balm with SPF 15",
+"price": 2.99,
+"category": "Skincare",
+"stock": 75,
+"desc": "Moisturizing with sun protection.",
+"image": "../../public/images/nosemask.png"
+}
+]
+}

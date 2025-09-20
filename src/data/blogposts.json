@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Future of Online Pharmacy",
+      "author": "Dr. Jane Smith",
+      "date": "2025-09-01",
+      "excerpt": "Exploring how digital platforms are transforming access to healthcare and medicine.",
+      "image": "/images/blog/pharmacy-future.jpg",
+      "slug": "future-of-online-pharmacy"
+    },
+    {
+      "id": 2,
+      "title": "5 Tips for Building a Strong Immune System",
+      "author": "Michael Green",
+      "date": "2025-08-28",
+      "excerpt": "Practical advice on nutrition, supplements, and lifestyle changes to support immunity.",
+      "image": "/images/blog/immune-system.jpg",
+      "slug": "tips-for-strong-immune-system"
+    },
+    {
+      "id": 3,
+      "title": "How to Read a Prescription Label",
+      "author": "Dr. Angela Kim",
+      "date": "2025-08-20",
+      "excerpt": "A beginner’s guide to understanding dosage, instructions, and safety notes on prescriptions.",
+      "image": "/images/blog/prescription-label.jpg",
+      "slug": "how-to-read-prescription-label"
+    },
+    {
+      "id": 4,
+      "title": "Top 10 Supplements for Everyday Wellness",
+      "author": "Sarah Johnson",
+      "date": "2025-08-10",
+      "excerpt": "From Vitamin C to Omega-3, here’s what nutritionists recommend for overall health.",
+      "image": "/images/blog/top-supplements.jpg",
+      "slug": "top-10-supplements-wellness"
+    },
+    {
+      "id": 5,
+      "title": "Managing Seasonal Allergies Effectively",
+      "author": "Dr. Ravi Patel",
+      "date": "2025-07-25",
+      "excerpt": "Tips on prevention, treatment, and medications for common seasonal allergies.",
+      "image": "/images/blog/seasonal-allergies.jpg",
+      "slug": "managing-seasonal-allergies"
+    },
+    {
+      "id": 6,
+      "title": "The Role of Telemedicine in Modern Healthcare",
+      "author": "Emily Carter",
+      "date": "2025-07-15",
+      "excerpt": "Why telehealth is here to stay and how it benefits patients and providers alike.",
+      "image": "/images/blog/telemedicine.jpg",
+      "slug": "telemedicine-modern-healthcare"
+    },
+    {
+      "id": 7,
+      "title": "Understanding Generic vs. Brand-Name Drugs",
+      "author": "Dr. John Lee",
+      "date": "2025-07-05",
+      "excerpt": "We break down the differences in cost, safety, and effectiveness.",
+      "image": "/images/blog/generic-vs-brand.jpg",
+      "slug": "generic-vs-brand-drugs"
+    },
+    {
+      "id": 8,
+      "title": "Staying Hydrated: Why Water Matters",
+      "author": "Laura Wilson",
+      "date": "2025-06-30",
+      "excerpt": "Hydration plays a critical role in physical and mental health. Learn how much you really need.",
+      "image": "/images/blog/hydration.jpg",
+      "slug": "staying-hydrated"
+    },
+    {
+      "id": 9,
+      "title": "Healthy Sleep Habits for Busy People",
+      "author": "Dr. Mark Thompson",
+      "date": "2025-06-20",
+      "excerpt": "Practical strategies for improving sleep quality despite a packed schedule.",
+      "image": "/images/blog/sleep-habits.jpg",
+      "slug": "healthy-sleep-habits"
+    },
+    {
+      "id": 10,
+      "title": "Understanding Probiotics and Gut Health",
+      "author": "Sophia Chen",
+      "date": "2025-06-10",
+      "excerpt": "How probiotics support digestion, immunity, and overall wellness.",
+      "image": "/images/blog/probiotics.jpg",
+      "slug": "understanding-probiotics-gut-health"
+    }
+  ]
+}
