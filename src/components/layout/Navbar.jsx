@@ -27,7 +27,7 @@ export default function Navbar() {
   }, [mobileOpen]);
 
   return (
-    <header className="flex flex-col justify-center bg-green-500 font-mono">
+    <header className="flex flex-col justify-center bg-blue-800 font-mono">
       {/* Top bar hidden on very small screens to save space */}
       <div className="topbar hidden sm:block">
         <Container className="py-2 flex items-center justify-between text-sm">
